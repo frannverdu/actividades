@@ -134,3 +134,17 @@ li{
     width: 250px;
     height: 100%;
 }
+.noticiatext {
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    
+}
+.imgnot2 {
+    width: 380px;
+    height: 250px;
+    float: right;
+}
+.datos {
+    font-size: 12px;
+    text-align: right;
+}
